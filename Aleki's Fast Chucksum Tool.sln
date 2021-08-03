@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AFCT", "WinToolKit\AFCT.csproj", "{71638DFF-6DEB-45A3-844A-BCAB83CBD776}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71638DFF-6DEB-45A3-844A-BCAB83CBD776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71638DFF-6DEB-45A3-844A-BCAB83CBD776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71638DFF-6DEB-45A3-844A-BCAB83CBD776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71638DFF-6DEB-45A3-844A-BCAB83CBD776}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC4746C2-FE08-4CF4-93FB-0409F674B745}
+	EndGlobalSection
+EndGlobal
