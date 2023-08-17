@@ -1,4 +1,4 @@
-<h1>AFCT - Aleki's Fast Checksum Tool</h1>
+<h1>Bulk Checksum Tool</h1>
 
 A Winforms application that is made to quickly and easily calculate the Checksum of a single file, or 1000's of files.
 Supported Checksum's incude: SHA1, MD5, SHA256, and SHA512.
