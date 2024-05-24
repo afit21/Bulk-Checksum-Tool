@@ -12,5 +12,3 @@ This program uses Multithreading to calculate Checksums in parallel. The main cl
 - Calculate checksums for all files within subdirectories of a selected directory
 
 Feel free to use my code in your projects or compile your own versions of my program! the 'MultithreadingChecksumCommands.cs' class may save some time in your own project.
-
-- Support to run from a CMD or Powershell comming in the future!
